@@ -1,2 +1,3 @@
 # Jina-Product-look-alike
 Most of the time, people face a limitation on using some online services that can only be accessed with a desktop. However, it is not the case with our reverse lookup tool. Just like you perform google reverse image search on PC, search by image on the phone is also done in a similar way. So, no matter which device you are using for search, you will never face compatibility issues while using this tool.
+This project can be integrated with any e-commerce website which can help users to directly click a photograph of a product and they can get the details of the product so that they can buy it without the need of wasting time on which brand it is from and other related factors.
