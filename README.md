@@ -1,2 +1,2 @@
 # Jina-Product-look-alike
-Many products on the market are very similar to one another. Sometimes it can be hard to tell them apart, especially if they are not labeled correctly. This project will look into the different products that are available on the market and find the ones that are the most similar to one another.
+Most of the time, people face a limitation on using some online services that can only be accessed with adesktop. However, it is not the case with our reverse lookup tool. Just like you perform google reverse imagesearch on PC, search by image on the phone is also done in a similar way. So, no matter which device you areusing for search, you will never face compatibility issues while using this tool.
